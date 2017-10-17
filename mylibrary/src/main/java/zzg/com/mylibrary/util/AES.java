@@ -13,7 +13,6 @@ import javax.crypto.spec.SecretKeySpec;
 public class AES {
 
     /**加密
-     * @throws Exception
      */
     public static String Encrypt(String sSrc, String sKey) throws Exception {
 

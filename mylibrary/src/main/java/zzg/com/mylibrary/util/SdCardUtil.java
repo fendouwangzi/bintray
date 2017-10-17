@@ -19,7 +19,7 @@ import java.util.ArrayList;
  * Get SD card info.
  *
  * @author MaTianyu
- * @date 2015-04-19
+ * @Create 2015-04-19
  */
 public class SdCardUtil {
     private static final String TAG = SdCardUtil.class.getSimpleName();

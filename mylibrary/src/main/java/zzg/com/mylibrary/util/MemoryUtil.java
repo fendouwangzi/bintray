@@ -12,7 +12,7 @@ import android.util.Log;
  * Get memory info.
  *
  * @author MaTianyu
- * @date 2015-04-19
+ * @Create 2015-04-19
  */
 public class MemoryUtil {
     private static final String TAG = MemoryUtil.class.getSimpleName();

@@ -12,7 +12,7 @@ import java.io.File;
  * modify form Trinea
  *
  * @author trinea
- * @date 2014-12-10
+ * @Create 2014-12-10
  */
 public class SilentInstaller {
     /**

@@ -11,7 +11,7 @@ import android.os.Handler;
  * <uses-permission android:name="android.permission.CAMERA"/>
  *
  * @author MaTianyu
- * @date 2014-11-04
+ * @Create 2014-11-04
  */
 public class FlashLight {
 

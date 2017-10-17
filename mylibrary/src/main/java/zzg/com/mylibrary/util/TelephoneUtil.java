@@ -15,7 +15,7 @@ import java.util.Date;
  * <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
  *
  * @author MaTianyu
- * @date 2014-09-25
+ * @Create 2014-09-25
  */
 public class TelephoneUtil {
 

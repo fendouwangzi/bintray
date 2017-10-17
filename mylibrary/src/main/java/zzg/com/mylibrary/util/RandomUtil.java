@@ -6,7 +6,7 @@ import java.util.Random;
  * 随机工具类
  * modified form Trinea
  * @author trinea
- * @date 2014-12-10
+ * @Create 2014-12-10
  */
 public class RandomUtil {
     public static final String NUMBERS_AND_LETTERS = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";

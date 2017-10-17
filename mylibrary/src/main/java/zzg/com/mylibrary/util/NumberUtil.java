@@ -2,7 +2,7 @@ package zzg.com.mylibrary.util;
 
 /**
  * @author MaTianyu
- * @date 2014-11-21
+ * @Create 2014-11-21
  */
 public class NumberUtil {
 

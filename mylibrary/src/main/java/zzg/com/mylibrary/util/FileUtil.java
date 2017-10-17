@@ -11,7 +11,7 @@ import java.text.DecimalFormat;
 
 /**
  * @author MaTianyu
- * @date 2014-08-10
+ * 2014-08-10
  */
 public class FileUtil {
 
